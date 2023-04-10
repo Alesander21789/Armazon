@@ -1,0 +1,9 @@
+
+©
+java:S1130"íRemove the declaration of thrown exception 'es.storeapp.business.exceptions.InstanceNotFoundException', as it cannot be thrown from method's body.(≤üÑ©
+´
+java:S1130"îRemove the declaration of thrown exception 'es.storeapp.business.exceptions.DuplicatedResourceException', as it cannot be thrown from method's body.(©ﬁëˆ
+ß
+java:S1130""êRemove the declaration of thrown exception 'es.storeapp.business.exceptions.AuthenticationException', as it cannot be thrown from method's body.(çÔÅ¡
+•
+java:S1130("éRemove the declaration of thrown exception 'es.storeapp.business.exceptions.InvalidStateException', as it cannot be thrown from method's body.(Ø¶‘´

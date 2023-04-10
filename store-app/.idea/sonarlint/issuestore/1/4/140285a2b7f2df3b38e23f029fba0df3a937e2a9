@@ -1,0 +1,14 @@
+
+z
+java:S2139p"XEither log this exception and handle it, or rethrow it with some contextual information.(±Ÿ—±ÿÿÿÿÿ8İ¶ºàî0
+¨
+java:S1130‡"‰Remove the declaration of thrown exception 'es.storeapp.business.exceptions.ServiceException', as it cannot be thrown from method's body.(æ±â—8è¶ºàî0
+v
+java:S2139É"XEither log this exception and handle it, or rethrow it with some contextual information.(Ãôş•8ô¶ºàî0
+D
+java:S1168Ø"&Return an empty array instead of null.(¥¹ï8ø¶ºàî0
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(Şÿÿÿÿÿ8ü¶ºàî0
+D
+java:S1168­"&Return an empty array instead of null.(¥¹ï8‹·ºàî0
+D
+java:S1168µ"&Return an empty array instead of null.(¥¹ï8Œ·ºàî0
